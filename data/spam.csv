@@ -1,0 +1,7 @@
+id	, suspicious_words	, unknown_sender	, contains_images	, class 
+376	 , true	 , false 	 , true	, spam 
+489	 , true	 , true 	 , false	, spam 
+541	 , true	 , true 	 , false	, spam 
+693	 , false	 , true 	 , true	, ham 
+782	 , false	 , false 	 , false	, ham 
+976	 , false	 , false 	 , false	, ham 
